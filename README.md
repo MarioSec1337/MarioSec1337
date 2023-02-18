@@ -1,11 +1,11 @@
-### Hello 👋, I'm MarioSec1337 !
+### Hello 👋, I'm Marioo ! 
 
 ![Profile views](https://gpvc.arturio.dev/abanz)
 
 <br />
 <br />
 
-Hi everyone, I'm **Mario Putra G** :)  ,I'm a **Cyber Security Researcher** 🚀 from Indonesia. 
+Hi everyone, I'm **Mario** :)  ,I'm a **Cyber Security Researcher** 🚀 from Indonesia. 
 
   <img align="right" alt="GIF" src="https://camo.githubusercontent.com/4a1373646ed18da95a6d86d4131e0f4ead0236fd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
   
